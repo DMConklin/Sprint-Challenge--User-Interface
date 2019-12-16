@@ -215,13 +215,12 @@ footer nav a {
 
 /* About Styles */
 
-div.jumbo-about {
-    padding: 10px 0;
+section.about-top {
+    border-bottom: 1px dashed black;
 }
 
 section.about-top {
-    padding: 15px;
-    border-bottom: 1px dashed black;
+    padding: 0 8px 20px 8px;
 }
 
 section.about-middle {
